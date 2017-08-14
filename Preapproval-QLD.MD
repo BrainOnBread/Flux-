@@ -1,95 +1,89 @@
-# The Flux Party — <del>WA</del> **QLD** Constitution
+# The Flux Party — Queensland Constitution
 
 ## Introduction
 
-This is the constitution for the <del>WA</del> **QLD** political party named "The Flux Party — <del>WA</del> **QLD**", sometimes referred to as "Flux <del>WA</del> **QLD**" or "The Party" in this document.
-<del>The registered abbreviation for the party at the time of registration is "Flux The System!".</del>
-**The registered abbreviation for the party at the time of registration is “Flux QLD”.***
-<del>It is</del> **Flux QLD is** a state party associated with the federal party "VOTEFLUX.ORG | Upgrade Democracy!" with the abbreviation "Flux".
+This is the constitution for the Queensland political party named "The Flux Party Queensland", sometimes referred to as "Flux QLD" or "The Party" in this document.
+
+The registered abbreviation for the party at the time of registration is “Flux QLD”.
+Flux QLD is a state party associated with the federal party "VOTEFLUX.ORG | Upgrade Democracy!" with the abbreviation "Flux".
 
 The term "Flux AUS" is used to refer to the federal Flux Party, not the state party.
 
-The Flux Party — <del>WA</del> **QLD** is hereby established as an organisation.
+The Flux Party Queensland (Flux QLD) is hereby established as an organisation.
 
-The canonical version of the constitution is stored in the repository at https://github.com/voteflux/flux/ under the file name <del>`CONSTITUTION.WA.md`</del> **’CONSTITUTION.QLD.md’**
+The canonical version of the constitution is stored in the repository at https://github.com/voteflux/flux/ under the file name ’CONSTITUTION.QLD.md’
 
 
 Clauses should be referred to by line number and most recent commit hash.
 
-Flux <del>WA</del> **QLD** intends to defer many of the responsibilities for running the party to the federal Flux party, and this is indicated in this document.
+Flux QLD intends to defer many of the responsibilities for running the party to the federal Flux party, and this is indicated in this document.
 
-This document is ratified when the federal Flux constitution is updated to reflect this fact.
+**This document is ratified when the federal Flux constitution is updated to reflect this fact.**
 This will be recorded under the section titled "State and Territory Branches".
 At the time of writing this link will take an observer to said ratification: https://github.com/voteflux/flux/blob/master/CONSTITUTION.md#state-and-territory-branches
 
 ## Objective
 
-The primary objective of Flux <del>WA</del> **QLD** is to promote the election of endorsed candidates to the Legislative Assembly **of Queensland.** <del>and Legislative Council of Western Australia.</del>
+The primary objective of Flux <QLD is to promote the election of endorsed candidates to the Legislative Assembly of Queensland. 
+
 Promotion and endorsement of candidates will be contextually appropriate.
 
 Further objectives:
 
-* To provide every <del>WA</del> **QLD** voter with real democratic potential
-* To use elected candidates as a gateway for electors to directly influence the Legislative Assembly <del>and Legislative Council within Australian law,</del> using an internal voting system
-* To provide the framework and means for minor parties and independents to participate productively without winning a seat
-* To facilitate a culture of criticism through empowering specialists and passionate voters
+* To provide every Queensland voter with real democratic potential.
+* To use elected candidates as a gateway for electors to directly influence the Legislative Assembly, (and Legislative Council within Australian law), using an internal voting system.
+* To provide the framework and means for minor parties and independents to participate productively without winning a seat.
+* To facilitate a culture of engagement through empowering specialists and passionate voters;
 * To stimulate the creation of new policy options
 
-Flux <del>WA</del> **QLD** also adopts objectives of the federal Flux party where possible.
+Flux QLD also adopts objectives of the federal Flux party where possible.
 
 ## Membership Criteria
 
-Flux <del>WA's</del>  **QLD’s** membership criterion is:
+Flux QLD’s membership criterion is:
 
-* Maintain a list of at least 500 members who are electors within <del>the WA</del> **Queensland.**
+* Flux Queensland must maintain a list of at least 500 members who are electors.
    
 
 ### Membership
 
-<del>All WA</del> **QLD** electors are eligible for membership **provided they have not been convicted of a disqualifying electoral offence within the previous ten years.  Flux QLD membership will terminate should any member be convicted of a disqualifying electoral offence.**
+Queensland electors are eligible for membership:
+	(i) provided they have not been convicted of a disqualifying electoral offence within the previous ten years.  
+	(ii)Flux QLD membership will terminate should any member be convicted of a disqualifying electoral offence.**
 
-<del>They may join by joining the federal Flux party, and all relevant members joining are admitted automatically.</del>
-**Queensland electors may join Flux QLD by joining the federal Flux party.  All eligible members are admitted to Flux QLD automatically.**
-Members of the federal Flux party may opt out of inclusion in the state party via their membership details page.
-There is no cost for membership.
-Each member is required to provide their name <del>and address</del> **address, and date of birth** such that it matches the electoral roll.
-Other required details include methods of contact, an email address is required, a phone number is optional.
-<del>Their membership application is</del> **Membership applications are** to be submitted through Flux AUS's website, at https://voteflux.org.
-Members may resign or revoke their membership through the resignation feature on the member's membership details page.
-There is only one category of membership, and members are always referred to as 'members'.
+Joining the federal Flux party automatically admits membership into the Flux QLD party, for eligible members.  Membership to the parties is handled through the membership page of the Flux AUS website; members may opt out of inclusion of state or federal membership here.
+There is no cost for membership.  Each member is required to provide their name, address, and date of birth such that it matches the electoral roll.  Other contact details required, include; email address (required for party correspondance), phone number is optional.
 
-Members retain membership by retaining membership to the federal Flux party.
+Membership applications are submitted through Flux AUS's website, at https://voteflux.org.
+Members may resign or revoke their membership through the resignation feature on the member's membership details page.  There is only one category of membership, and members are always referred to as 'members'.
 
-<del>There are no obligations outside of maintaining membership.</del>
+<del>Members retain membership by retaining membership to the federal Flux party.</del>
 
-Elected candidates who are members of Flux <del>WA</del> **QLD** are not permitted to be members of other <del>WA</del> **QLD** political parties, though regular members may be members of other parties.
-In a case where an elected candidate does find themselves a member of another party, they must immediately resign from that other party.
 
-Members may be expelled from the party <del>only in the case</del> **when** it is agreed upon unanimously by the Leadership, **or when they have been convicted of a disqualifying electoral offence, as defined in the Electoral Act 1992, ins 2002 No. 8 s 5(1).**
-Members may be suspended from the party only in the case it is agreed upon unanimously by the Leadership.
+Elected candidates are members of Flux QLD, and are not permited to be members of other political parties.  Should a Flux candidate find themselves a member of a secondary party, they must imediately resign, so as to retain only one party affiliation. 
 
-## Structure of Flux <del>WA</del> **QLD** and Office Bearers
+Members may be expelled from the party when it is agreed upon unanimously by the Leadership, or when they have been convicted of a disqualifying electoral offence, as defined in the Electoral Act 1992, ins 2002 No. 8 s 5(1).  Members may be suspended from the party only in the case it is agreed upon unanimously by the Leadership.
+
+## Structure of Flux QLD and Office Bearers
 
 ### Structure and Office Bearers
 
 Official Roles of the Flux QLD party are:
 
-* Leader
-* Deputy Leader
-* Secretary
-* <del>Membership Coordinator</del> **Registered Officer**
-* <del>Members of The Steering Committee</del> **Deputy Registered Officer**
-* **Agent**
+* Leader -- Nathan Spataro
+* Deputy Leader -- Max Kaye
+* **Secretary**
+* **Registered Officer**
+* **Deputy Registered Officer**
+* **Party Agent**
 * **Members of the Steering Committee**
 
-These roles form a group known as ‘The Leadership’. <del>Official roles (with the exception of Leader and Deputy Leader) are elected by The Leader.</del> **The Leader and Deputy Leader of Flux QLD are to be identical to the persons fulfilling the respective roles for Flux AUS.  
+These roles form a group known as ‘The Leadership’. The Leader and Deputy Leader of Flux QLD are to be identical to the persons fulfilling the respective roles for Flux AUS.  
 
-Any member of Flux QLD may put themselves forward for the role of Secretary, Registered Officer, Deputy Registered Officer, and Agent.  The Leadership group is responsible for putting forward a preferential list for the Official Roles.  The Secretary, and Deputy Registered Officer are ratified by the party Leader, or Deputy Leader in the Leaders absence. The Secretary for Flux QLD is responsible for ratifying the position of Registered Officer and registered Agent for Flux QLD.**  
+Any member of Flux QLD may put themselves forward for the role of Secretary, Registered Officer, Deputy Registered Officer, and Agent.  The Leadership group is responsible for putting forward a preferential list for the Official Roles.  The Secretary, and Deputy Registered Officer are ratified by the party Leader, or Deputy Leader in the Leaders absence. The Secretary for Flux QLD is responsible for ratifying the position of Registered Officer and registered Agent for Flux QLD.  
+Members fulfilling the positions of Secretary, Registered Officer, Deputy Registered Officer and Agent are by default, also members of the Flux QLD ‘Steering Committee’.  
 
-<del>The roles of Secretary, and Membership Coordinator are by default, also members of The Flux WA ‘Steering Committee’.</del>
-**Members fulfilling the positions of Secretary, Registered Officer, Deputy Registered Officer and Agent are by default, also members of the Flux QLD ‘Steering Committee’.  
-
-The Steering Committee will be comprised of a minimum of three members who are also members of Flux QLD, and a maximum of seven(?) persons.  Steering Committee positions are created and persons are elected to the roles by quorum of The Leadership.**    
+The Steering Committee will be comprised of a minimum of three members who are also members of Flux QLD, and a maximum of **seven(?)** persons.  Steering Committee positions are created and persons are elected to the roles by quorum of The Leadership.   
 
 #### Initialization
 
