@@ -4,8 +4,10 @@
 ## COMMUNITY ENGAGEMENT COMMITTEE
 
 The Community Enegagment Committee is responsible for all communications with membership, media, and the public at large.  
+**Community Engagement Chair:**
 
 The Chair is responsible for relaying all Community Engagment information back to the Steering Committee Chair, Campaign Manager and Secretary.
+
 
 **MEMBERS**
 1.  .
@@ -23,7 +25,7 @@ The Chair is responsible for relaying all Community Engagment information back t
 
 The Campaing Managment Committee reports to the Campaign Manager and is responsible for overseeing the Flux QLD Campaign.    
 
-Campaing Managment Chair, and Campaign Manager: Daryl Killin
+**Campaing Managment Chair, and Campaign Manager: Daryl Killin**
 
 The Campaign Manager is responsible for relaying all Campaign Information back to the Secretary, Party Agent, and Steering Committee Chair.
 
@@ -53,3 +55,7 @@ The Fundraising Committee Chair is responsible for relaying all fundraising info
 
 * a
 * b
+
+## OTHER ROLES
+### **Field Officer:**
+### Membership Coordinators, are the Registered Officer, and Deputy Registered Officer in thier respective areas.
