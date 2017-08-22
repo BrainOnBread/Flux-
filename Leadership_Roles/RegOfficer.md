@@ -1,6 +1,6 @@
-#LEADERSHIP ROLES#
+# LEADERSHIP ROLES
 
-##Registered Officers##
+## Registered Officers
 
 The Flux Party Queensland's Registered Officers are responsible for correspondence with the Electoral Commission, and and compliance with the Electoral Regulations.  
 
@@ -13,7 +13,7 @@ The core responsibilities of the Registered Officer and Deputy Registered Office
 5.  The Registered Officers together are responsible for maintaining The Flux Party Queensland Membership List.
 6.  The Registered Officers together can request that the commission cancel the party’s registration.  Registered Officers cannot resign, they must be replaced on application of the party secretary. 
 
-###REGULAR DUTIES###
+### REGULAR DUTIES
 
 * Make contact with Steering Committee Chair with respect to agenda items, progress reports, meeting requests. 
 * To attend 75% of Steering Committee Meetings, and to read the relevant circulated agendas, reports, directives.
@@ -23,7 +23,7 @@ The core responsibilities of the Registered Officer and Deputy Registered Office
 * To insure all Flux Party communication and correspondence is professional and fiduciary duties are held with respect to all conduct.
 * To communicate with the Steering Committee Chair when the scope and boundaries of your contribution to the operations of The Flux Party Queensland change.
 
-####Committee Duties####
+#### Committee Duties
 
 The Registered Officer is also occupying the role of:
 1.  
@@ -33,13 +33,13 @@ The Deputy Registered Officer is also occupying the role of:
 1.  
 2.
 
-###CHAIN OF AUTHORITY###
+### CHAIN OF AUTHORITY
 * (i) The Registered Officers are responsible to the Party Secretary, in general, and to the Leadership and Flux QLD at large.
 * (ii) The Steering Committee Chair is responsible for the tasks as outlined in the Electoral Act 1992, and Electoral Regulations 2013, and in The Flux Party Queensland's Constitution. 
 * (iii) The Secretary may call into question the Registered Officer's actions at anytime, the Steering Committee Members, Candidates, and Flux QLD members may call into question the Registered Officer's actions through the Flux QLD Secretary.  
 * (iv) All formal complaints must be raised immediately with the Party Leadership.
 
-##Terms of Appointment##
+## Terms of Appointment
 * Appointment has been made with respect to The Flux Party Queensland's Constitution.
 * Office is to be held for one calendar year; voluntary and forced resignation should be given with eight weeks and immediate notice, respectively.  
 * Steering Committee Members are expected to attend 75% of meetings, both inside and outside election time.
@@ -49,10 +49,10 @@ The Deputy Registered Officer is also occupying the role of:
 
 **This written agreement constitutes a deed of access necessary to perform the role.** 
 
-Appointee:                                    Appointing Office Bearer:
-(Registered Officer)
-Date:                                         Date:
+| Appointee: | Appointing Office Bearer: |
+| (Registered Officer) | | 
+| Date: | Date: |
 
-Appointee:                                    Appointing Office Bearer:
-(Deputy Registered Officer)
-Date:                                         Date:
+| Appointee: | Appointing Office Bearer: |
+| (Deputy Registered Officer) | | 
+| Date: | Date: |

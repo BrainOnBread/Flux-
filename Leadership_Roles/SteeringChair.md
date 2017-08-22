@@ -1,6 +1,6 @@
-#LEADERSHIP ROLES#
+# LEADERSHIP ROLES
 
-##Steering Committee Chair##
+## Steering Committee Chair
 
 The Steering Committee Chair is responsible for facilitating proper information flow to ensure the Steering Committee as a whole has an understanding of the Party's financial position, strategic performance, break-out and task committees operations and affairs, and the opportunities and challenges facing the Party.   
 
@@ -17,20 +17,20 @@ The core responsibilities of the Steering Committee Chair are to:
 8.  Hold a copy of up to date contact details for board members.
 9.  To insure all Flux Party communication and correspondence is professional and fiduciary duties are held with respect to all conduct. 
 
-###REGULAR DUTIES###
+### REGULAR DUTIES
 * Make contact with all Steering Committee members weekly with respect to Agenda items,
 * Call meetings as required.
 * Circulate agendas, reports and approved minutes with **Secretary** as second key.
 * To act as a point of contact and support to Steering Committee Members, to refer authority to the Party Leadership as needed or required.
 * To insure standards of behavior, with respect to the board members' Code of Conduct.
 
-###CHAIN OF AUTHORITY###
+### CHAIN OF AUTHORITY
 * (i) The Steering Committee Chair is both responsible to and for the Party Secretary.
 * (ii) The Steering Committee Chair is responsible to the Steering Committee Members in general, and The Party Leadership at large.
 * (iii) The Party Leadership may call into question the Steering Committee Chair's actions at anytime, the Steering Committee Members, Candidates, and Flux QLD members may call into question the Steering Committee Chair's actions through the Flux QLD Secretary.  
 * (iv) All formal complaints must be raised immediately with the Party Leadership.
 
-##Terms of Appointment##
+## Terms of Appointment
 * Appointment has been made with respect to The Flux Party Queensland's Constitution.
 * Office is to be held for one calendar year; voluntary and forced resignation should be given with eight weeks and immediate notice, respectively.  
 * Steering Committee Members are expected to attend 75% of meetings, both inside and outside election time.
@@ -40,6 +40,6 @@ The core responsibilities of the Steering Committee Chair are to:
 
 **This written agreement constitutes a deed of access necessary to perform the role.** 
 
-Appointee:                                    Appointing Office Bearer:
+| Appointee: | Appointing Office Bearer: |
 
-Date:                                         Date:
+|Date: | Date: |

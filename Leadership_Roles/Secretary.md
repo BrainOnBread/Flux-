@@ -1,6 +1,6 @@
-#LEADERSHIP ROLES#
+# LEADERSHIP ROLES
 
-##Secretary##
+## Secretary
 
 The Secretary is responsible for the day-to-day running of The Party; leadership, planning, communication, team building and compliance welfare. 
 
@@ -15,7 +15,7 @@ The core responsibilities of the Party Secretary are to:
 7. The Secretary in association with a quorum of Steering Committee Members ratifies the Flux QLD Constitution, ratifies the Steering Committee Roles, swears in Steering Committee appointments with **Party Leader, and Deputy Party Leader** as keys. 
 8. The Secretary is responsible for application to register the party and making application to change the Party's Registered Officer's, and to notify the commission of the Party Agent’s appointment.
 
-###REGULAR DUTIES###
+### REGULAR DUTIES
 * Make contact with Steering Committee Chair and all members with respect to Agenda items,
 * Call meetings as required.
 * Circulate agendas, reports and approved minutes with **Steering Committee Chair** as second key.
@@ -26,13 +26,13 @@ The core responsibilities of the Party Secretary are to:
 * To act as a point of contact and support to Steering Committee Members, to refer authority to the Party Leadership as needed or required, with reference to the Constitutional imperative that both the Leader and Deputy Leader may act on the Secretary's behalf, and accept joint responsibility for carrying out the administration and correspondence of the party.
 * To insure standards of behavior, with respect to the board members' Code of Conduct.
 
-###CHAIN OF AUTHORITY### 
+### CHAIN OF AUTHORITY
 * (i) The Secretary is responsible to the Party Leader, Deputy Leader, Flux National Steering Committee, Flux QLD Steering Committee Chair.
 * (ii) The Secretary is responsible for the Steering Committee Chair, the Steering Committee Members, Flux Volunteers.
 * (iii) The Party Leadership, or Steering Committee Chair may call into question the Secretary's actions at anytime, Steering Committee Members, Candidates, and Flux QLD members may call into question the Secretary's actions through the Flux QLD Steering Committee Chair.  
 * (iv) All formal complaints must be raised immediately with the Party Leadership.
 
-##Terms of Appointment##
+## Terms of Appointment
 * Appointment has been made with respect to The Flux Party Queensland's Constitution.
 * Office is to be held for one calendar year; voluntary and forced resignation should be given with eight weeks and immediate notice, respectively.  
 * Steering Committee Members are expected to attend 75% of meetings, both inside and outside election time.
@@ -42,6 +42,6 @@ The core responsibilities of the Party Secretary are to:
 
 **This written agreement constitutes a deed of access necessary to perform the role.** 
 
-Appointee:                                    Appointing Office Bearer:
+|Appointee: | Appointing Office Bearer: |
 
-Date:                                         Date:
+| Date: | Date: |
