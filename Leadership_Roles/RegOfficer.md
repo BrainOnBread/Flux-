@@ -49,10 +49,12 @@ The Deputy Registered Officer is also occupying the role of:
 
 **This written agreement constitutes a deed of access necessary to perform the role.** 
 
-| Appointee: | Appointing Office Bearer: |
-| (Registered Officer) | | 
-| Date: | Date: |
+|   Appointee: ____________________________________  |   Appointing Office Bearer: ____________________________________  |
+|   Registered Officer   |   |
+| ---------------------------------------------------- |  ------------------------------------------------ |   
+|   Date:   |   Date:   |
 
-| Appointee: | Appointing Office Bearer: |
-| (Deputy Registered Officer) | | 
-| Date: | Date: |
+|   Appointee: ____________________________________  |   Appointing Office Bearer: ____________________________________  |
+|   Deputy Registered Officer   |   |
+| ---------------------------------------------------- |  ------------------------------------------------ |   
+|   Date:   |   Date:   |
