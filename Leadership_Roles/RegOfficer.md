@@ -26,10 +26,12 @@ The core responsibilities of the Registered Officer and Deputy Registered Office
 #### Committee Duties
 
 The Registered Officer is also occupying the role of:
+
 1.  
 2.  
 
 The Deputy Registered Officer is also occupying the role of:
+
 1.  
 2.
 
