@@ -1,4 +1,4 @@
-<img src="../Flux_Icon_Colour55.png" />
+<img src="./Flux_Icon_Colour55.png" />
 
 # The Flux Party — Queensland Constitution
 
