@@ -1,3 +1,5 @@
+<img src="../Flux_Icon_Colour.png" style="float:right;" />
+
 # The Flux Party Queensland
 ## Code of Conduct
 
