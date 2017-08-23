@@ -1,4 +1,4 @@
-<p style="text-align: right; margin: 0"><img src="../Flux_Icon_Colour.png" style="width: 18em" /></p>
+<img src="../Flux_Icon_Colour.png" style="width: 18em" />
 
 # LEADERSHIP ROLES
 
