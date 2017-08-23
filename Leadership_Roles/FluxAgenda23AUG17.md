@@ -1,6 +1,13 @@
+<img src="../Flux_Icon_Colour55.png" />
+
 # Meeting Agenda
-**ask for minutes, take attendance**
+
+Date: August 23rd, 2017
+
+__ask for minutes, take attendance__
+
 Formally open the Flux QLD Registration Committee Meeting
+
 1.  Leadership Roles, Committee Breakdowns - discuss what the roles are, how the committee's will work, the three committee roles: Campaign Manager, Media Leadership, Fund-raising Chair.
 2.  Nominations & voting sent to members.
 3.  Constitution changes.

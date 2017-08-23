@@ -1,3 +1,4 @@
+<img src="../Flux_Icon_Colour55.png" />
 
 # LEADERSHIP ROLES
 
@@ -10,6 +11,7 @@ The Chair is responsible for relaying all Community Engagment information back t
 
 
 **MEMBERS**
+
 1.  .
 2.  .
 3.  .
@@ -30,6 +32,7 @@ The Campaing Managment Committee reports to the Campaign Manager and is responsi
 The Campaign Manager is responsible for relaying all Campaign Information back to the Secretary, Party Agent, and Steering Committee Chair.
 
 **MEMBERS**
+
 1.  .
 2.  .
 3.  .
@@ -47,6 +50,7 @@ The Fundraising Committee reports to the Secretary, Party Agent, Steering Commit
 The Fundraising Committee Chair is responsible for relaying all fundraising information back to the Secretary, the Steering Committee Chair, and to insure finances are maintained with the Party Agent.  The Fundraising Chair will liaise with the Campaign Manager relating to campaign funding matters.  
 
 **MEMBERS**
+
 1.  .
 2.  .
 3.  .
