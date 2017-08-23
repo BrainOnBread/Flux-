@@ -19,5 +19,5 @@ The Flux Party Queensland Steering Committee members should comply with the foll
 12.  Fiduciary duties to the Party include referring the answers or objectives to unknown problems to a higher authority.
 12.  The ember has an obligation, at all times, to comply with the spirit and with the principles of this Code.  
 
-   Party Representative: _______________________________   |   Date:   |
+   Party Representative: _______________________________   |   Date: ____________________  |
 | ----------------------------------------------------------- | ----------------------------------------------- |
