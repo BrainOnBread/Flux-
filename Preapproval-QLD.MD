@@ -73,11 +73,11 @@ Official Roles of the Flux QLD party are:
 * **Registered Officer**
 * **Deputy Registered Officer**
 * **Party Agent**
-* **Members of the Steering Committee**
+* **Steering Committee Chair**
 
 These roles form a group known as ‘The Leadership’. The Leader and Deputy Leader of Flux QLD are to be identical to the persons fulfilling the respective roles for Flux AUS.  
 
-Any member of Flux QLD may put themselves forward for the role of Secretary, Registered Officer, Deputy Registered Officer, and Agent.  The Leadership group is responsible for putting forward a preferential list for the Official Roles.  The Secretary, and Deputy Registered Officer are ratified by the party Leader, or Deputy Leader in the Leaders absence. The Secretary for Flux QLD is responsible for ratifying the position of Registered Officer and registered Agent for Flux QLD.  Members fulfilling the positions of Secretary, Registered Officer, Deputy Registered Officer and Agent are by default, also members of the Flux QLD ‘Steering Committee’.  
+Any member of Flux QLD may put themselves forward for the role of Secretary, Registered Officer, Deputy Registered Officer, and Agent.  The Leadership group is responsible for putting forward a preferential list for the Official Roles.  The Secretary, and Deputy Registered Officer are ratified by the party Leader, or Deputy Leader in the Leaders absence. The Secretary for Flux QLD is responsible for ratifying the position of Registered Officer and registered Party Agent for Flux QLD.  (The Registered Officer ratifies the Deputy Registered Officer's Role).  Members fulfilling the positions of Secretary, Registered Officer, Deputy Registered Officer and Agent are by default, also members of the Flux QLD ‘Steering Committee’.  
 
 The Steering Committee will be comprised of a minimum of three members who are also members of Flux QLD, and a maximum of seven persons.  Steering Committee positions are created and persons are promoted to the roles by quorum of The Leadership.   
 
@@ -112,7 +112,7 @@ The Deputy Leader of Flux QLD is identical at all times to the Deputy Leader of 
 #### Secretary
 
 The Secretary is responsible for the day-to-day running of The Party.
-They also have the responsibility for the carrying out of the administration, and for the conduct of the correspondence, of The Party. **The Secretary is responsible for application to register the party, for ratifying the role and making application to change the party’s registered officer, and to notify the commission of the party agent’s appointment.**
+The Secretary is responsible for the carrying out administration, and for the conduct of correspondence for Flux QLD.  **The Secretary is responsible for making application to register the party, for motioning the commencement of The Flux Party Queensland secretarial role and making application to change the party’s registered officer, and notifying the commission of the party agent’s appointment.**
 
 Both the Leader and Deputy Leader may act on the Secretary's behalf, and accept joint responsibility for carrying out the administration and correspondence of the party.
 
@@ -126,13 +126,17 @@ Email correspondence to The Secretary is to be sent to <del>`secretary.wa@votefl
 * The Registered Officers are responsible for giving quarterly reports (last day of March, June, September and December) about the party’s constitution, and notifying the commission in connection with, and keeping documents related to, preselection ballots.  
 * The Registered Officers together can request that the commission cancel the party’s registration.  
 * Registered Officers cannot resign, they must be replaced by application of the party secretary.
-* The Registered Officer signs off (and notifies the Electoral Commission Queensland) on the appointment of the Deputy Registered Officer, who's nomination is vetted in a majority vote by a quorum of Steering Committee members.   
+* The Registered Officer signs off (and notifies the Electoral Commission Queensland) on the appointment of the Deputy Registered Officer, who's nomination is vetted in a majority vote by a quorum of Steering Committee members.  
+
+Email to the registered officers can be sent c/o The Flux Party Queensland Secretary, mailing address for the registered officers is consistent with the Electoral Commission records. 
 
 #### Party Agent
 
 * Flux QLD must appoint an agent for the commission’s Register of Agents.  The agent is responsible for giving financial disclosure reports for the party and making election funding claims for the party.  
 
-** In the event that an agent’s appointment is no longer in effect the obligations of an agent rest on each member of the party’s executive committee.**
+**In the event that an agent’s appointment is no longer in effect the obligations of an agent rest on each member of the party’s executive committee.**
+
+Email to the registered officers can be sent c/o The Flux Party Queensland Secretary, mailing address for the Party Agent is consistent with the Electoral Commission records. 
 
 #### Steering Committee
 
