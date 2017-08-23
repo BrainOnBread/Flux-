@@ -38,8 +38,8 @@ The Campaign Manager is responsible for relaying all Campaign Information back t
 3.  .
 
 ### OPPERATIONS
-* a
-* b
+* .
+* .
 
 ## FUNDRAISING COMMITTEE
 
@@ -57,9 +57,9 @@ The Fundraising Committee Chair is responsible for relaying all fundraising info
 
 ### OPPERATIONS
 
-* a
-* b
+* .
+* .
 
 ## OTHER ROLES
-### **Field Officer:**
-### Membership Coordinators, are the Registered Officer, and Deputy Registered Officer in thier respective areas.
+#### **Field Officer:**
+##### Membership Coordinators, are the Registered Officer, and Deputy Registered Officer in thier respective areas.
