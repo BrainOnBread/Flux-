@@ -43,6 +43,6 @@ The Party Agent is also the Flux QLD Treasurer and is responsible for all accoun
 
 **This written agreement constitutes a deed of access necessary to perform the role.** 
 
-| Appointee:| Appointing Office Bearer: |
-| (Registered Officer) | |
-| Date: | Date: |
+|   Appointee: ____________________________________  |   Appointing Office Bearer: ____________________________________  |
+| ---------------------------------------------------- |  ------------------------------------------------ |   
+|   Date:   |   Date:   |
