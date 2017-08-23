@@ -116,7 +116,7 @@ The Secretary is responsible for the carrying out administration, and for the co
 
 Both the Leader and Deputy Leader may act on the Secretary's behalf, and accept joint responsibility for carrying out the administration and correspondence of the party.
 
-Email correspondence to The Secretary is to be sent to <del>`secretary.wa@voteflux.org`</del> which will distribute email to The Secretary and those entitled to act on behalf of The Secretary.
+Email correspondence to The Secretary is to be sent to riley.kinnunen@voteflux.org which will distribute email to The Secretary and those entitled to act on behalf of The Secretary.
 
 #### Registered Officers
 
