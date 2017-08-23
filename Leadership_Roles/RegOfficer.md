@@ -52,5 +52,5 @@ The Deputy Registered Officer is also occupying the role of:
 |   Appointee (RO): ______________________________  |   Appointing Office Bearer: _______________________________| 
 | -------------------------------------------------- | ------------------------------------------------------- | 
 |   Date:   |   Date:   |
-|   Appointee (DRO): ____________________________________  |   Appointing Office Bearer: ____________________________________  | 
+|   **Appointee (DRO):** ______________________________  |   Appointing Office Bearer: _______________________________| 
 |   Date:   |   Date:   |
