@@ -17,6 +17,7 @@ The Flux Party Queensland Steering Committee members should comply with the foll
 10. Each member must make independent judgments, and be bound by the soundness of all decisions taken by the Steering Committee.  Independent thought and judgment involves taking all reasonable steps to be satisfied decisions are within the best interests of the Party and Australian Law.
 11.  The member should not engage in conduct likely to bring discredit upon the Party.
 12.  Fiduciary duties to the Party include referring the answers or objectives to unknown problems to a higher authority.
-12.  The ember has an obligation, at all times, to comply with the spirit and with the principles of this Code.   
-|   Party Representative: _______________________________   |   Date:   |
+12.  The ember has an obligation, at all times, to comply with the spirit and with the principles of this Code.  
+
+   Party Representative: _______________________________   |   Date:   |
 | ----------------------------------------------------------- | ----------------------------------------------- |
