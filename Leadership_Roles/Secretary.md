@@ -42,6 +42,6 @@ The core responsibilities of the Party Secretary are to:
 
 **This written agreement constitutes a deed of access necessary to perform the role.** 
 
-|   Appointee: __________________________  |   Appointing Office Bearer: __________________________  |
+|   Appointee: ____________________________________  |   Appointing Office Bearer: ____________________________________  |
 | ---------------------------------------------------- |  ------------------------------------------------ |   
 |   Date:   |   Date:   |
