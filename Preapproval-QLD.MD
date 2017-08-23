@@ -209,7 +209,7 @@ Endorsed candidates are chosen by The Leader or by 100% agreement of The Flux Fl
 
 ## Preselection
 
-The party is aware of the model procedures for preselection ballots ((EA92, s 71)(Electoral Regulation 2013, Schedule 1 )).  
+The party is aware of the model procedures for preselection ballots ((EA92, s 71)(Electoral Regulation 2013, Schedule 1 )).  At this time The Flux Party Queensland will not use a preselection process, and hence, does not need to include preselection procedures in the constitution.  Preselection amendments are to be approved by the Steering Committee and reflected in the constitutional iteration committed by September 30th, 2020; the quarterly report to the Electoral Commission Queensland will reflect these changes.
 
 ## Internal Voting System
 
