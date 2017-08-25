@@ -164,7 +164,7 @@ Chris Schneider (Party Agent), Aaron Whittaker (Steering Committee Chair), Brent
 Decisions are made by The Party Leader, or The Steering Committee when at least 66% are in agreement. 
 For the purposes of decision making a quorum is achieved in any instance where:
 
-* The Leader or Deputy Leader in consultation with one other member of the Flux QLD Steering Committee,
+* The Leader or Deputy Leader in consultation with one other member of the Flux QLD Steering Committee are present,
 * All members of Flux QLD Steering Committee are present
 
 The Leader may imbue any member with special authority for specific purposes, in which case decisions made by the delegate are treated as though they were made by the Leader.

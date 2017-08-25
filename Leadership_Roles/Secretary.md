@@ -44,6 +44,6 @@ The core responsibilities of the Party Secretary are to:
 
 **This written agreement constitutes a deed of access necessary to perform the role.** 
 
-|   Appointee: ____________________________________  |   Appointing Office Bearer: ____________________________________  |
+|   Appointee: Riley Kinnunen   |   Appointing Office Bearer: Max Kaye   |
 | ---------------------------------------------------- |  ------------------------------------------------ |   
-|   Date:   |   Date:   |
+|   Date: 24/08/17   |   Date: 24/08/17   |

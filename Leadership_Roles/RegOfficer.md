@@ -29,13 +29,13 @@ The core responsibilities of the Registered Officer and Deputy Registered Office
 
 The Registered Officer is also occupying the role of:
 
-1.  
-2.  
+1.  Campaign Manager
+2.  Membership Coordinator FNQ
 
 The Deputy Registered Officer is also occupying the role of:
 
-1.  
-2.
+1.  Media Committee Manager
+2.  Candidate
 
 ### CHAIN OF AUTHORITY
 * (i) The Registered Officers are responsible to the Party Secretary, in general, and to the Leadership and Flux QLD at large.
@@ -53,8 +53,8 @@ The Deputy Registered Officer is also occupying the role of:
 
 **This written agreement constitutes a deed of access necessary to perform the role.** 
 
-|   Appointee (RO): ______________________________  |   Appointing Office Bearer: _______________________________| 
+|   Appointee (RO): Daryl Killin   |   Appointing Office Bearer: Riley Kinnunen   | 
 | -------------------------------------------------- | ------------------------------------------------------- | 
-|   Date:   |   Date:   |
-|   **Appointee (DRO):** ______________________________  |   Appointing Office Bearer: _______________________________| 
-|   Date:   |   Date:   |
+|   Date:  24/08/17   |   Date: 24/08/17   |
+|   Appointee (DRO): Brendan Rizzoli |   Appointing Office Bearer: Daryl Killin   | 
+|   Date:  25/08/17   |   Date: 25/08/17   |

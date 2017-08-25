@@ -45,6 +45,6 @@ The Party Agent is also the Flux QLD Treasurer and is responsible for all accoun
 
 **This written agreement constitutes a deed of access necessary to perform the role.** 
 
-|   Appointee: ____________________________________  |   Appointing Office Bearer: ____________________________________  |
+|   Appointee: Chris Schneider  |   Appointing Office Bearer: Riley Kinnunen  |
 | ---------------------------------------------------- |  ------------------------------------------------ |   
-|   Date:   |   Date:   |
+|   Date:  24/08/17   |   Date: 24/08/17   |

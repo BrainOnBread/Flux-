@@ -42,6 +42,6 @@ The core responsibilities of the Steering Committee Chair are to:
 
 **This written agreement constitutes a deed of access necessary to perform the role.** 
 
-|   Appointee: ____________________________________  |   Appointing Office Bearer: ____________________________________  |
+|   Appointee: Aaron Whittaker  |   Appointing Office Bearer: Riley Kinnunen (Secretary)  |
 | ---------------------------------------------------- |  ------------------------------------------------ |   
-|   Date:   |   Date:   |
+|   Date: 24/08/17   |   Date: 24/08/17   |
