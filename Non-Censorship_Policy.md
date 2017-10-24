@@ -4,7 +4,7 @@
 # Non-Censorship Policy 
 
 
-1.0  Policy
+## 1.0  Policy
 
 The national Flux party, "VOTEFLUX.ORG | Upgrade Democracy!" and subsidiary State Parties respect the rights of its members, as autonomous citizens, to engage in public debate in the absence of censorship.  It is not our policy to censor comments, criticisms or debate; as supported in the United Nations Declaration of Human Rights, and freedom of political speech as recognized in Nationwide News Pty Ltd v Wills (1992) 177 CLR 1, the High Court of Australia, except where prohibited under Australian Law. 
 
@@ -16,7 +16,7 @@ Despite a non-censorship policy, persons exhibiting trolling behaviors will be b
 
 Dispute resolution regarding breaches to our Non-Censorship Policy must be made with respect to the appropriate Flux Constitution.
 
-2.0  Exclusion of Liability
+## 2.0  Exclusion of Liability
 
 2.1
 
@@ -32,7 +32,7 @@ The purpose of this policy is to ensure that all stakeholders understand their r
 ### Scope 
 This policy applies to all stakeholders including Flux members, candidates, volunteers and the general public. In cases of believing one is unfairly blocked, note that our Dispute Resolution Policies can be found in the respective federal, state and/or municipal constitutions, as required.  This policy covers, but is not limited to, the sites and services mentioned below, and is also intended to cover other social media services as they develop in the future:  social networking sites (eg Facebook); professional networking services (eg Linkedln); video and photo sharing websites (eg YouTube); micro-blogging (eg Twitter); forums and discussion boards (eg Google Groups); online collaborations (eg Wikipedia); podcasting; blogs. 
 
-3.0  Definitions 
+## 3.0  Definitions 
 
 3.1 
 
@@ -46,7 +46,7 @@ Content is the information that is put onto social media sites, which includes t
 
 Trolling - "Someone who posts inflammatory, extraneous, or off-topic messages in an online community, such as a forum, chat room, or blog, with the primary intent of provoking readers into an emotional response or of otherwise disrupting normal on-topic discussion.” (Wikipedia)
 
-4.0  Procedural instructions regarding use of social media 
+## 4.0  Procedural instructions regarding use of social media 
 
 4.1 
 
@@ -68,15 +68,14 @@ Confidentiality of information.  Members  are not to divulge or discuss any conf
 
 Under no circumstances are individual persons to use the Flux email addresses or logos unless authorized.
  
-
-5.0  Security risks 
+## 5.0  Security risks 
 
 Social media sites can contain a significant amount of personal information. Accordingly, it is in the best interests of members to ensure appropriate and effective security and/or privacy settings are maintained. Members need to be mindful that regardless of the security/privacy settings, content may still be made public (eg  a contact may cut and paste comments onto another site) or may be illegally accessed by cybercriminals. Furthermore, unintended invitees may gain access to a social network site through a linked association (eg friend of a friend). Some individuals and organizations, including criminal organizations, use social media to mask their true identity and obtain personal information. It is recommended that members exercise caution with respect to the type of information that they post on such sites. 
 
-6.0  Reporting 
+## 6.0  Reporting 
 
 Members who fail to comply with this policy may be subject to counseling and expulsion. Observers should report any breach of this policy to a Steering committee member. The Steering committee member is to report any breach of this policy or seek advice from Leadership. 
 
-7.0  
+## 7.0  
 
 Review date: the policy is to be reviewed before December 31, 2020.
