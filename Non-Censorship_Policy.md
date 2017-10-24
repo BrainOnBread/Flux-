@@ -3,37 +3,48 @@
 
 # Non-Censorship Policy 
 
-## Policy
-1.0
 
-The national Flux party, "VOTEFLUX.ORG | Upgrade Democracy!" and subsidiary State Parties respect the rights of its members as autonomous citizens, to engage in public debate in the absence of censorship.  It is not our policy to censor comments, criticisms or debate; as supported in the United Nations Declaration of Human Rights, and freedom of political speech as recognized in Nationwide News Pty Ltd v Wills (1992) 177 CLR 1, the High Court of Australia, except where prohibited under Australian Law. 
+1.0  Policy
+
+The national Flux party, "VOTEFLUX.ORG | Upgrade Democracy!" and subsidiary State Parties respect the rights of its members, as autonomous citizens, to engage in public debate in the absence of censorship.  It is not our policy to censor comments, criticisms or debate; as supported in the United Nations Declaration of Human Rights, and freedom of political speech as recognized in Nationwide News Pty Ltd v Wills (1992) 177 CLR 1, the High Court of Australia, except where prohibited under Australian Law. 
+
 1.1
 
-Despite a non-censorship policy, persons exhibiting trolling behaviors, will be banned, blocked, or removed after two warnings.  If the trolling behavior appears in public forum, one warning must be made in public forum, the second warning may be pubic, private or both.  
+Despite a non-censorship policy, persons exhibiting trolling behaviors will be banned, blocked, or removed after two warnings.  If the trolling behavior appears in public forum, one warning must be made in public forum, the second warning may be pubic, private or both.  
+
 1.2 
 
 Dispute resolution regarding breaches to our Non-Censorship Policy must be made with respect to the appropriate Flux Constitution.
 
-2.0
+2.0  Exclusion of Liability
 
-Flux, "VOTEFLUX.ORG | Upgrade Democracy!", and its affiliated parties take no responsibility for the comments of individual persons, except where necessitated under Australian Law. 
-2.1 
+2.1
+
+Flux, "VOTEFLUX.ORG | Upgrade Democracy!", and its affiliated parties take no responsibility for the comments of individual persons, except where necessitated under Australian Law.
+
+2.2
 
 Flux, "VOTEFLUX.ORG | Upgrade Democracy!", its affiliated parties, and authorized agents reserve the right to remove any comments deemed to be "trolling" comments, or those prohibited under Australian Law.
 
-Purpose 
+### Purpose 
 The purpose of this policy is to ensure that all stakeholders understand their rights and obligations when engaging in public forum hosted by, or in association with the national Flux party and it's subsidiary party  affiliates.  We encourage mutually respectful exchanges, tolerance, and encourage the use of deliberative discussion and conscious communication methodologies.  It is important that all individual persons, members and citizens using social media (such as on-line forums, Facebook, Twitter, YouTube) understand that there are inherent risks, such as personal defamation, and each individual takes responsibility for managing the risks. 
 
-Scope 
+### Scope 
 This policy applies to all stakeholders including Flux members, candidates, volunteers and the general public. In cases of believing one is unfairly blocked, note that our Dispute Resolution Policies can be found in the respective federal, state and/or municipal constitutions, as required.  This policy covers, but is not limited to, the sites and services mentioned below, and is also intended to cover other social media services as they develop in the future:  social networking sites (eg Facebook); professional networking services (eg Linkedln); video and photo sharing websites (eg YouTube); micro-blogging (eg Twitter); forums and discussion boards (eg Google Groups); online collaborations (eg Wikipedia); podcasting; blogs. 
 
 3.0  Definitions 
 
-3.1 Social media includes the various Internet-based applications that allow the creation and exchange of user-generated content. Social media enables individuals to communicate via the Internet sharing information and resources. Sites such as Facebook are a social utility that connects people with family and friends. 
+3.1 
 
-3.2 Content is the information that is put onto social media sites, which includes text, audio, video, images, podcasts and other multimedia communications. 
+Social media includes the various Internet-based applications that allow the creation and exchange of user-generated content. Social media enables individuals to communicate via the Internet sharing information and resources. Sites such as Facebook are a social utility that connects people with family and friends. 
 
-3.3 Trolling - "Someone who posts inflammatory, extraneous, or off-topic messages in an online community, such as a forum, chat room, or blog, with the primary intent of provoking readers into an emotional response or of otherwise disrupting normal on-topic discussion.” (Wikipedia)
+3.2 
+
+Content is the information that is put onto social media sites, which includes text, audio, video, images, podcasts and other multimedia communications. 
+
+3.3 
+
+Trolling - "Someone who posts inflammatory, extraneous, or off-topic messages in an online community, such as a forum, chat room, or blog, with the primary intent of provoking readers into an emotional response or of otherwise disrupting normal on-topic discussion.” (Wikipedia)
 
 4.0  Procedural instructions regarding use of social media 
 
