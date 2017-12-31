@@ -91,9 +91,9 @@ Initially the roles will be filled as per the below:
 * Deputy Leader: Max Kaye
 * Secretary: Riley Kinnunen
 * Registered Officer: Daryl Killin
-* Deputy Registered Officer: Brendan Rizzoli
-* Party Agent: Chris Schneider
-* Steering Committee Chair: Aaron Whittaker
+* Deputy Registered Officer: open - nominations for 2018
+* Party Agent: as per constitution (line 148), Party Agent role is being fulfilled by Flux QLD Steer Co.  Nominations are open for 2018.
+* Steering Committee Chair: nominations for 2018
 * Invited Board Member: Brent Abel
 
 Members may occupy more than one position, not all roles must be filled by Flux QLD members, though three unique persons from Flux QLD must be named.  When the party's application to the Electoral Commission Queensland (ECQ) is successful this constitution comes into effect and is adopted by the party.   
@@ -187,7 +187,7 @@ The Steering Committee in consultation with The Leadership will determine the me
 
 #### Annual General Meeting
 
-The party is required to hold Annual General Meetings (AGMs) once per calendar year at a time of the Leadership's choosing.  These AGMs may be chaired by the secretary of the federal Flux Party or the secretary of Flux QLD.
+The party is required to hold Annual General Meetings (AGMs) once per financial year at a time of the Leadership's choosing.  These AGMs may be chaired by the secretary of the federal Flux Party or the secretary of Flux QLD.
 
 This rules around AGMs (except those above) are identical in an ongoing basis to the section titled "Annual General Meeting" in the federal Flux constitution.
 
